@@ -1,5 +1,3 @@
-#run-drivewipe
-
 If you don't know how to do this, you shouldn't be downloading this.
 
 -----------------------------------

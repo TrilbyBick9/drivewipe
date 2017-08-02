@@ -1,8 +1,12 @@
 # drivewipe
 Wipes drives.
-Linux only.
+
+Linux and Mac only.
+
 I am not responsable for any damages to your machine.
+
 ------
-DO NOT USE FOR PENTESTING.
-CAN KILL SERVERS.
-VIRUS PROGRAMS CANNOT DETECT.
+
+1.) Will work with mac but needs work
+
+2.) I made this for when I switched over to solid state and got rid of all but one of my HDDs

@@ -3,37 +3,46 @@ If you don't know how to do this, you shouldn't be downloading this.
 -----------------------------------
 
 download the file you want
+
   1.) run-wiper.sh
+  
   2.) SDTW.sh 
 
 run-wiper.sh
+
 ------------
+
 rewrites HDD then wipes it.
 
 
 SDTW.sh
+
 -------
-copies all data off of the drive. 
 
-compresses the data. 
+1.) copies all data off of the drive. 
 
-sends it to an FTP server of your choice.
+2.) compresses the data. 
 
-wipes the drive.
+3.) sends it to an FTP server of your choice.
+
+4.) wipes the drive.
 
 -----------------------------------------------
+
 to run the file, first you will have to give yourself permission.
 
 
-sudo chmod +x /PATH_OF_FILE/run-wiper.sh
+<code>sudo chmod +x /PATH_OF_FILE/run-wiper.sh</code>
 
-sudo chmod +x /PATH_OF_FILE/SDTW.sh
+<code>sudo chmod +x /PATH_OF_FILE/SDTW.sh</code>
 
 then run it by:
 
-cd /PATH_OF_FILE
-./run-wiper.sh
+<code>cd /PATH_OF_FILE</code>
+
+<code>./run-wiper.sh</code>
 
 
-cd /PATH_OF_FILE
-./SDTW.sh
+<code>cd /PATH_OF_FILE</code>
+
+<code>./SDTW.sh</code>

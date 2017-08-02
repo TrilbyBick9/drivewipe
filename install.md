@@ -42,7 +42,7 @@ then run it by:
 
 <code>cd /PATH_OF_FILE</code>
 
-<code>./run-wiper.sh</code>
+<code>./drivewipe.sh</code>
 
 ----
 
